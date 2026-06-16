@@ -11,7 +11,7 @@
 
 💻 Passionate Full Stack Developer
 
-🎓 B.Sc Computer Science Graduate
+🎓 B.E
 
 🌱 Currently Learning Advanced MERN Stack & AWS
 
