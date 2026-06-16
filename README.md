@@ -75,11 +75,8 @@
 - React.js
 - Node.js
 - MongoDB
-- JWT Authentication
 
 ### 📱 SIM Management System
-- Angular
-- Symfony
 - MySQL
 - REST APIs
 
